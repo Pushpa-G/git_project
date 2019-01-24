@@ -1,0 +1,6 @@
+CR-24
+31148,Pushpa G, pushpag@gmail.com,50,60,0,A,-1,30
+31151,Nikath, nikath@gmail.com,70,60,40,-1,52,62
+31152,Avani, avani@gmail.com,50,60,60,110,-1,50
+31154,priyanka, pinky@gmail.com,70,90,100,59,80,90
+31150,sisir, sisir@gmail.com,0,80,50,60,85,45,
